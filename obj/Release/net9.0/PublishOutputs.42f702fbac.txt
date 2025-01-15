@@ -1,0 +1,9 @@
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/publish/Rock Paper Scissors Lizard Spock
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/publish/appsettings.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/publish/Rock Paper Scissors Lizard Spock.dll
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/publish/Rock Paper Scissors Lizard Spock.deps.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/publish/Rock Paper Scissors Lizard Spock.runtimeconfig.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/publish/Rock Paper Scissors Lizard Spock.pdb
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/publish/Microsoft.OpenApi.dll

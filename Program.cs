@@ -9,6 +9,15 @@ builder.Services.AddControllers();
 builder.Services.AddOpenApi();
 builder.Services.AddScoped<GameplayServices>();
 
+builder.Services.AddCors(options => {
+    options.AddPolicy("AllowAll",
+    policy => {
+        policy.AllowAnyOrigin() // Allows requests from any origin
+            .AllowAnyMethod() // Allows any Http Request (GET, POST, PUT, etc...)
+            .AllowAnyHeader(); // Allows any headers
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -1,0 +1,34 @@
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/appsettings.Development.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/appsettings.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/Rock Paper Scissors Lizard Spock.staticwebassets.endpoints.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/Rock Paper Scissors Lizard Spock
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/Rock Paper Scissors Lizard Spock.deps.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/Rock Paper Scissors Lizard Spock.runtimeconfig.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/Rock Paper Scissors Lizard Spock.dll
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/Rock Paper Scissors Lizard Spock.pdb
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/bin/Release/net9.0/Microsoft.OpenApi.dll
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Paper Scissors Lizard Spock.csproj.AssemblyReference.cache
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Paper Scissors Lizard Spock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Paper Scissors Lizard Spock.AssemblyInfoInputs.cache
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Paper Scissors Lizard Spock.AssemblyInfo.cs
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Paper Scissors Lizard Spock.csproj.CoreCompileInputs.cache
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Paper Scissors Lizard Spock.MvcApplicationPartsAssemblyInfo.cs
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Paper Scissors Lizard Spock.MvcApplicationPartsAssemblyInfo.cache
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Paper Scissors Lizard Spock.sourcelink.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/scopedcss/bundle/Rock Paper Scissors Lizard Spock.styles.css
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/staticwebassets.build.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/staticwebassets.development.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/staticwebassets.build.endpoints.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/staticwebassets/msbuild.Rock Paper Scissors Lizard Spock.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/staticwebassets/msbuild.Rock Paper Scissors Lizard Spock.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/staticwebassets/msbuild.build.Rock Paper Scissors Lizard Spock.props
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/staticwebassets/msbuild.buildMultiTargeting.Rock Paper Scissors Lizard Spock.props
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/staticwebassets/msbuild.buildTransitive.Rock Paper Scissors Lizard Spock.props
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/staticwebassets.pack.json
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Pap.759FAF25.Up2Date
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Paper Scissors Lizard Spock.dll
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/refint/Rock Paper Scissors Lizard Spock.dll
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Paper Scissors Lizard Spock.pdb
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/Rock Paper Scissors Lizard Spock.genruntimeconfig.cache
+/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/obj/Release/net9.0/ref/Rock Paper Scissors Lizard Spock.dll
