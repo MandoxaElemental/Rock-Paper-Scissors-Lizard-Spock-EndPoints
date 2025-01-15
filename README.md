@@ -16,7 +16,7 @@
     * Link to Hosted API via Azure in comments 
     * Get your designed approved
 
-> Notes: 
+> Notes: Code Uses Dotnet 9.0.0, while API uses Dotnet 8.0.0
 
 ### _GitHub Repository Link:_
 [Rock Paper Scissor Lizard Spock - Prototype and EndPoint GitHub Repository Link](https://github.com/MandoxaElemental/Rock-Paper-Scissors-Lizard-Spock-EndPoints)
