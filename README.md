@@ -17,6 +17,12 @@
     * Get your designed approved
 
 > Notes: Code Uses Dotnet 9.0.0, while API uses Dotnet 8.0.0
+> Corresponding Options if you need to know:
+>   - Kleavor = ROCK
+>   - Scyther = PAPER
+>   - Scizor = SCISSOR
+>   - Scrafty = LIZARD
+>   - Mewtwo = SPOCK
 
 ### _GitHub Repository Link:_
 [Rock Paper Scissor Lizard Spock - Prototype and EndPoint GitHub Repository Link](https://github.com/MandoxaElemental/Rock-Paper-Scissors-Lizard-Spock-EndPoints)
