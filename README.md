@@ -26,4 +26,7 @@
 [Rock Paper Scissor Lizard Spock - Prototype and EndPoint Hosted Azure API Link](https://greinaresrpsls-f0gkb5h3ftcbe2e3.westus-01.azurewebsites.net/gameplay/RPSLS)
 
 This has been Peer Reviewed By: 
+Darryl P
+
+Great job. I like the Theme, Code works proper. Great Job GP. 
 > Comments: 
