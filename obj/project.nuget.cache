@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dxFaGFxevms=",
+  "success": true,
+  "projectFilePath": "/Users/users/Documents/CodeStack/Level 2/Week 2/Rock Paper Scissors Lizard Spock/Rock Paper Scissors Lizard Spock.csproj",
+  "expectedPackageFiles": [
+    "/Users/users/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/users/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
